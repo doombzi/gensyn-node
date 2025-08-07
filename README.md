@@ -1,4 +1,4 @@
-# 🧠 Gensyn Node Setup Guide (Non-Docker)
+# 🧠 Gensyn Node Setup Guide 
 
 Panduan ini untuk mengatur Gensyn RL Swarm node secara manual tanpa Docker, menggunakan repo [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm).
 
